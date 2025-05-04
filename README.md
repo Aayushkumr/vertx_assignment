@@ -1,4 +1,3 @@
-```markdown
 # Creator Dashboard
 
 A full-stack application for content creators to manage profiles, earn credits, and interact with personalized content feeds from various social media platforms.
