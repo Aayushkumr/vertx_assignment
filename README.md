@@ -82,15 +82,14 @@ REACT\_APP\_API\_URL=[http://localhost:5000/api](http://localhost:5000/api)
 
 ````
 
----
 
 ### 🚀 Running Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/creator-dashboard.git
-   cd creator-dashboard
-````
+   git clone https://github.com/aayushkumr/vertx_assignment.git
+   cd vertx_assignment
+```
 
 2. Install backend dependencies:
 
